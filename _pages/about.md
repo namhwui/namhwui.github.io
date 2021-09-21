@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome! Call me Nam."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a PhD candidate in statistics at the University of Waterloo, under the supervision of Dr. Ryan Browne.
+
+I help clustering methods communicate better with the user. Formally speaking, my research interest is in interpretable clustering methods, and the current focus is on finite mixture models.
+
+__What makes a model interpretable?__
+I believe that the model interpretability (read: do you get what the model is doing?) plays a role in (broadly speaking) three different stages: formulation, method of fitting and the output. Here's what I mean:
+
+* Formulation: Is the model offering to solve your problem? If not, is the model 'close enough'?
+* Method of fitting: How is the model being optimised?
+* Output: Does the solution make sense? If not, are there tools to help make sense of it?
+
+The three facets collectively represent the interpretability of a model. I believe that all three are important, though some are tougher to address than the others.
+
+__Why interpretable clustering?__
+I believe that clustering is most useful as an exploratory tool. Exploratory usually means that the user is 'tinkering' with the data since they have no leads yet. 
+When they are presented with leads, they should be also presented with the lead-generating process and the rationale behind it (bad information can be worse than no information). That is why a clustering model should communicate clearly as many aspects of itself as possible. We want quality leads for the user.
+
+__Your website looks a bit barren...__
+Yes I agree, and I plan on changing that ASAP. Please bear with me as I populate my website with my works and thoughts, spanning across various levels of fun and seriousness.
+
+<!--This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -47,4 +67,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.-->
