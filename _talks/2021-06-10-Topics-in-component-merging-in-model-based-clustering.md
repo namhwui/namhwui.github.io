@@ -1,7 +1,7 @@
 ---
 title: "Topics in component merging in model-based clustering"
 collection: talks
-type: Talk
+type: "Talk"
 permalink: /talks/2021-06-10-Topics-in-component-merging-in-model-based-clustering
 venue: "2021 Annual Meeting of the Statistical Society of Canada (SSC 2021)"
 date: 2021-06-10
