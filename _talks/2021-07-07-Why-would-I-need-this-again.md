@@ -2,6 +2,7 @@
 title: "Why would I need this again?"
 collection: talks
 type: "Talk"
+permalink: /talks/2021-07-07-Why-would-I-need-this-again
 venue: "Statistics and Actuarial Science Student Seminar Series"
 date: 2021-07-07
 location: "Waterloo, Canada"
