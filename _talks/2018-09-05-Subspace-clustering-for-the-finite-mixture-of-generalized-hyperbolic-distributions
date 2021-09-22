@@ -1,0 +1,13 @@
+---
+title: "Subspace clustering for the finite mixture of generalized hyperbolic distributions"
+collection: talks
+type: "Talk"
+permalink: /talks/2018-09-05-Subspace-clustering-for-the-finite-mixture-of-generalized-hyperbolic-distributions
+venue: "International Workshop on Model-based Clustering and Classification (MBC2)"
+date: 2018-09-05
+location: "Catania, Italy"
+---
+
+The finite mixture of generalised hyperbolic distributions is a flexible model for clustering, but its large number of parameters for estimation, especially in high dimensions, can make it computationally expensive to work with. 
+In light of this issue, we provide an extension of the subspace clustering technique developed for finite Gaussian mixtures to that of generalised hyperbolic distribution. 
+The methodology will be demonstrated with numerical experiments.
