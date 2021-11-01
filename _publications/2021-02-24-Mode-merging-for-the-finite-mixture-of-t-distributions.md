@@ -8,5 +8,5 @@ paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.372'
 citation: 'Nam-Hwui Kim, Ryan P. Browne. (2021). &quot;Mode merging for the finite mixture of t-distributions.&quot; <i>Stat</i>. 10(1).'
 ---
 
-[Download paper here](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.372)
+
 
