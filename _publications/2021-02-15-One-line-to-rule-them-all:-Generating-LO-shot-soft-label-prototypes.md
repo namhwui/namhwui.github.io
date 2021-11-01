@@ -8,6 +8,3 @@ paperurl: 'https://arxiv.org/abs/2102.07834'
 citation: 'Ilia Sucholutsky, Nam-Hwui Kim, Ryan P Browne, Matthias Schonlau. (2021). &quot;One line to rule them all: Generating LO-shot soft-label prototypes.&quot; <i>2021 International Joint Conference on Neural Networks (IJCNN)</i>.'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-
