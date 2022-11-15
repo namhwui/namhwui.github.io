@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate in statistics at the University of Waterloo, under the supervision of Dr. Ryan Browne.
+I'm currently working at Google Canada as a Data Scientist, tackling various problems in marketing.
+I also have a piece of paper that lets me pretend that I know some statistics.
 
-I help clustering methods communicate better with the user. Formally speaking, my research interest is in interpretable clustering methods, and the current focus is on finite mixture models.
+While in school, I devised some ways to help clustering methods communicate better with the user (formally: interpretable finite mixture modelling), under the guidance of Dr. Ryan Browne. Finite mixture models are getting fancier by the day, but much of the information from them get discarded currently. Wanting to reduce the informational waste motivated my studies.
 
-__Why interpretable clustering?__
-I believe that clustering is most useful as an exploratory tool. Exploratory usually means that the user is 'tinkering' with the data since they have no leads yet. 
-When they are presented with leads, they should be also presented with the lead-generating process and the rationale behind it (bad information can be worse than no information). That is why a clustering model should communicate clearly as many aspects of itself as possible. We want quality leads for the user.
+This webpage hosts some of my previous works, and I might upload personal projects and random thoughts occasionally. Don't count on regular uploads though.
 
 <!--This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
