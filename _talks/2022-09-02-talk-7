@@ -1,0 +1,16 @@
+---
+title: "Mode merging for non-Gaussian Finite Mixtures"
+collection: talks
+type: "Talk"
+permalink: /talks/2022-09-02-Mode-merging-for-non-Gaussian-finite-mixtures
+venue: "MBC2"
+date: 2022-09-02
+location: "Catania, Italy"
+---
+
+Finite mixture models can be interpreted as a model representing heterogeneous sub-populations within the whole population. 
+However, more care is needed when associating a mixture component with a cluster, because a mixture model may fit more components than the number of clusters. 
+Modal merging via the mean shift algorithm can help identifysuch multi-component clusters. 
+So far, most of the related works are focused on the Gaussian finite mixture. 
+As the non-Gaussian finite mixtures gain attention, the need to address the component-cluster correspondence issue in these mixture models grows. 
+In light of this issue, we introduce mode merging methods for several non-Gaussian finite mixtures including power-exponential, normal variance mixture and normal variance-mean mixture.
