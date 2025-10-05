@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently working at Google in Toronto as a Data Scientist, tackling various problems in marketing.
+I'm currently working at Google US as a Data Scientist, tackling various problems in marketing.
 I also have a piece of paper that lets me pretend that I know some statistics.
 
 While in school, I devised some ways to help clustering methods communicate better with the user (formally: interpretable finite mixture modelling), under the guidance of Dr. Ryan Browne. Finite mixture models are getting fancier by the day, but much of the information from them get discarded currently. Wanting to reduce the informational waste motivated my studies.
